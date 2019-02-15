@@ -1,13 +1,14 @@
 pragma solidity ^0.5.3;
 
 /*
- * Creator: WiToken
-
+ 
 /*
- * Abstract Token Smart Contract
+ *
+ * Creator: WiToken Foundation Limited
+ * WiToken Token Contract
  *
  */
-
+ 
  
  /*
  * Safe Math Smart Contract. 
